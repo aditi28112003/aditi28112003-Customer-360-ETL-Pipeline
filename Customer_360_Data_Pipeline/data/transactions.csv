@@ -1,0 +1,4 @@
+customer_id,num_transactions,avg_transaction_value
+1,5,100
+2,3,200
+3,2,150
